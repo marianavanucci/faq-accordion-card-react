@@ -1,26 +1,4 @@
-.App{
-  background-color: rgb(255, 255, 255);
-  min-width: 375px;
-  border-radius: 1rem;
-  margin-top: 10rem;
-}
-
-img{
-  width: 80%;
-  position: relative;
-  bottom: 8.4rem;
-  left: 2.2rem;
-}
-
-/* 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-} */
-
-
-/* # Front-end Style Guide
+# Front-end Style Guide
 
 ## Layout
 
@@ -66,4 +44,3 @@ Background gradient:
 
 - Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
 - Weights: 400, 700
- */
